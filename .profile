@@ -1,0 +1,5 @@
+export TOKEN='<telegram_api>'
+export CHANNEL='<bot_name>'
+export PORT = '443'
+export CAT_API_KEY = '<cat_api>'
+export EXTERNAL_URL = '<https://your-app.herokuapp.com:433>'
